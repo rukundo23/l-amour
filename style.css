@@ -1,0 +1,41 @@
+body {
+  font-family: 'Georgia', serif;
+  background-color: #fff0f5;
+  color: #4b2e2e;
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+  line-height: 1.7;
+}
+
+header {
+  margin-bottom: 40px;
+}
+
+header h1 {
+  font-size: 3em;
+  font-weight: bold;
+  color: #b22222;
+  margin-bottom: 10px;
+  font-family: 'Segoe Script', cursive;
+}
+
+.subtitle {
+  font-size: 1.3em;
+  color: #8b0000;
+  font-style: italic;
+}
+
+.content {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.content img {
+  margin-top: 30px;
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+}
